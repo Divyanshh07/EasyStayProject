@@ -1,5 +1,8 @@
 🏡 EasyStay – Smart Real Estate & Property Management Platform
 
+Live
+https://vercel.com/divyanshs-projects-a7f23ca4/easy-stay-project
+
 🏠 Overview
 
 EasyStay is a modern, full-stack real estate platform designed to simplify the way people rent, buy, sell, and manage properties—without brokers, hidden charges, or complexity.
