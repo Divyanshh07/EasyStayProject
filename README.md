@@ -1,7 +1,7 @@
 🏡 EasyStay – Smart Real Estate & Property Management Platform
 
 Live
-https://vercel.com/divyanshs-projects-a7f23ca4/easy-stay-project
+[https://easy-stay-project-nine.vercel.app/](https://easy-stay-project-nine.vercel.app/)
 
 🏠 Overview
 
